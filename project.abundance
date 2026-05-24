@@ -77,13 +77,14 @@
     },
     {
       "atomType": "Code",
-      "x": 0.3692722371967655,
+      "x": 0.36567834681042233,
       "y": 0.6676829268292683,
       "uniqueID": "id-309",
       "ioValues": [
         {
           "name": "x",
-          "ioValue": 0
+          "ioValue": 10,
+          "currentEquation": "10"
         },
         {
           "name": "y",
