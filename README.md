@@ -4,6 +4,13 @@
 
 ![](/project.svg)
 
+## Inputs
+
+- **X** (number)
+- **Y** (number)
+- **Z** (number)
+
+
 
 
  
