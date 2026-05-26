@@ -7,8 +7,7 @@
   "ioValues": [
     {
       "name": "X",
-      "ioValue": 20,
-      "currentEquation": "20"
+      "ioValue": 20
     },
     {
       "name": "Y",
